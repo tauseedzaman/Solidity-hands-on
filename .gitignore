@@ -1,0 +1,21 @@
+# Ignore build artifacts
+build/
+bin/
+abi/
+bin-debug/
+bin-release/
+*.swp
+
+# Ignore test results
+test-results/
+
+# Ignore local configuration files
+.env
+
+# Ignore editor-specific files
+.vscode/
+*.sublime-workspace
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
