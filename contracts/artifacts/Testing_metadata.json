@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_message",
+						"type": "string"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/lec-four.sol": "Testing"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/lec-four.sol": {
+			"keccak256": "0xd4a0a12ce7611a7d9116c93eea86cc9691ebd0317cf3623918e7b341b4dab006",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://34378ad1994726667eb5e147a11f3c3970b93ac8afc91dcc55496bdf245b632c",
+				"dweb:/ipfs/QmSrqkpgJCMYR8W1RzFtRFL3R6pJLjC7ZVy5dxioQFCbwf"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getAccount",
+				"outputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/lec-4-part-2.sol": "Deployer"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/lec-4-part-2.sol": {
+			"keccak256": "0x8104ab440b32682aa2ba3391b44b4752b274be9bd77f1156d275b7648260a3b1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://19761bb6086d34b3ea520a02d3505c105d0ae002a0e591821faa6acc3abec2a5",
+				"dweb:/ipfs/QmUidJAkDhCwt9TkZhwPYmwtsbtkSpPFJzgGZbAh9TCjG9"
+			]
+		}
+	},
+	"version": 1
+}

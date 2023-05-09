@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/my_second_contract.sol": "ZamanC"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/my_second_contract.sol": {
+			"keccak256": "0xcc06a9584e2ce96bfcd4fe18a7737835153acb20288b5a51612dedc43ae95746",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0e3df4af5b38b03a9628bccdfdb4248b0ad31f7b09015a314ac74ad6867a3e4f",
+				"dweb:/ipfs/Qmaev2HnL2ng1fmm28DjywT5sV6ToN2ywyoQcZEr7w9q3Y"
+			]
+		}
+	},
+	"version": 1
+}
